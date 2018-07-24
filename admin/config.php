@@ -27,10 +27,10 @@ define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'mysql1.86id.nl');
 define('DB_USERNAME', 'kbakker');
-define('DB_PASSWORD', 'T0qBy#FwVL');
+define('DB_PASSWORD', '');
 define('DB_DATABASE', 'kbakker');
 define('DB_PORT', '3306');
-define('DB_PREFIX', 'oc_slique_');
+define('DB_PREFIX', 'oc_');
 
 // OpenCart API
 define('OPENCART_SERVER', 'https://www.opencart.com/');
